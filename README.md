@@ -1,3 +1,5 @@
+> Added package.json file to avoid error "Manifest not found" when doing yarn install
+
 # Upload Preview jQuery Plugin
 
 ## What is that?
